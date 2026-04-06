@@ -1,0 +1,5 @@
+{
+  "name": "Meu Chef IA",
+  "description": "Um aplicativo de receitas inteligente que gera receitas com IA baseado nos ingredientes que você tem.",
+  "requestFramePermissions": []
+}
